@@ -20,15 +20,8 @@
         on the root of project
 - Remove all from folder:
   distribution
-  Important: Do not remove folder distribution. It must exist for compilation.x
-- On console, from folder:
-  sources
-  run:
-  javac @sources.list -d ../classes
-  Note: Now, *.class files are compiled and can be found in folder:
-        classes
-        on the root of project
-- On console, enter root folder od the project,
+  Important: Do not remove folder distribution. It must exist for compilation.
+- On console, enter root folder of the project,
   then enter folder:
   classes
 - On console, from folder:
@@ -40,7 +33,7 @@
         on the root of project
         This file is final product of the process of compiling.
   Important: This command has two period on its the end. It is very important
-             not to ommit any of them..
+             not to ommit any of them.
 - By the way... This application is already compiled, and you do not need
   to recompile, but you can.
         
