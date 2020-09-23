@@ -7,7 +7,15 @@ public class CardShufflingFY {
     
     private static CardShufflingFY cardShufflingFY = null;
     
-    private CardShufflingFY() {
+    private CardShufflingFY() {/**
+4
+ *
+5
+ * @author goran
+6
+ */
+7
+
         //
     }
     
@@ -18,7 +26,7 @@ public class CardShufflingFY {
         return CardShufflingFY.cardShufflingFY;
     }
     
-    //This method impelments Fisher-Yates shuffle
+    //This method implements Fisher-Yates shuffle
     public void shuffleCards(ArrayList<Card> cards) {
         ArrayList<Card> cardsNewOrder = new ArrayList<>();
         
