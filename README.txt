@@ -39,13 +39,17 @@
         distribution
         on the root of project
         This file is final product of the process of compiling.
+  Important: This command has two period on its the end. It is very important
+             not to ommit any of them..
+- By the way... This application is already compiled, and you do not need
+  to recompile, but you can.
         
 2. HOW TO RUN THIS APPLICATION
 - Needed console tool:
   java
   Note: This console tool is a standard part of both JDK and JRE.
         In fact, JDK or JRE must be properly installed in order to run this application.
-- Copy archive file CardGame.jar on wichever soma path
+- Copy archive file CardGame.jar on whichever path you want to.
 - On console, enter folder containing archive file CardGame.jar
   and execute:
   java -jar CardGame.jar -simplegame
