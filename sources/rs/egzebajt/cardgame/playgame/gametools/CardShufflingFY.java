@@ -7,15 +7,7 @@ public class CardShufflingFY {
     
     private static CardShufflingFY cardShufflingFY = null;
     
-    private CardShufflingFY() {/**
-4
- *
-5
- * @author goran
-6
- */
-7
-
+    private CardShufflingFY() {
         //
     }
     
